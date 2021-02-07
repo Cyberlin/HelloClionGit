@@ -3,4 +3,4 @@ project(HelloClionGit)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(HelloClionGit main.cpp)
+add_executable(HelloClionGit  LearnJson/main.cpp)
